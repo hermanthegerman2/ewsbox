@@ -1,0 +1,12 @@
+{
+    "id": "{09D268A6-3B9F-4F2D-A24C-2B3C2E37AE78}",
+    "name": "ewsbox",
+    "author": "Hermann Dötsch",
+    "url": "https://github.com/hermanthegerman2/p-charge/ews-box",
+    "compatibility": {
+        "version": "5.5"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
+}
